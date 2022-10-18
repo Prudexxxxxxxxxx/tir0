@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    /* background: url(https://res.cloudinary.com/dspfsamgq/image/upload/v1582292182/sumerki-saga-rassvet-the-twilight-saga-breaking-dawn-part-26_b9awcx.jpg) center top/cover; */
+    background: url(/babun1.jpg);   
+    /* background: url(https://avatars.mds.yandex.net/i?id=c0f2a34f579cb05f956c4fa1d421a282-5383096-images-thumbs&n=13) center top/cover; */
+    cursor: url(https://res.cloudinary.com/dspfsamgq/image/upload/v1579257122/5a3755ce3a48f0.7723702415135758862387_jvy9hf.png), pointer;
+   }
+   .bullet {
+    width: 50px;
+    height: 50px;
+    background: url(https://res.cloudinary.com/dspfsamgq/image/upload/v1582292835/bullet_ixjovm.png);
+    position:absolute;
+   }
